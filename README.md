@@ -1,2 +1,2 @@
-# avocado
-cli
+# avocado 🥑
+cli android sdk
